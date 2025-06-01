@@ -1,0 +1,230 @@
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\jquery\dist\jquery.slim.js
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\jquery\dist\jquery.min.map
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\js\site.js
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\jquery\dist\jquery.slim.min.js
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\favicon.ico
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\jquery\LICENSE.txt
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\jquery\dist\jquery.js
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\jquery-validation\dist\additional-methods.js
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\jquery\dist\jquery.slim.min.map
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\css\site.css
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\jquery-validation\LICENSE.md
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\jquery\dist\jquery.min.js
+D:\projects\Last version\Supermarket\Supermarket\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\img\141516.jpg
+wwwroot\img\apple.jpeg
+wwwroot\img\apples.jpeg
+wwwroot\img\banana.jpeg
+wwwroot\img\banana.jpg
+wwwroot\img\banana2.jpeg
+wwwroot\img\banner.jpg
+wwwroot\img\blueberry.jpeg
+wwwroot\img\blueberry1.jpeg
+wwwroot\img\bnd2.jpeg
+wwwroot\img\cago.jpeg
+wwwroot\img\cans.jpeg
+wwwroot\img\carrot.png
+wwwroot\img\chcat.jpeg
+wwwroot\img\cherry.jpeg
+wwwroot\img\coffe1.webp
+wwwroot\img\coffe2.webp
+wwwroot\img\coffe3.webp
+wwwroot\img\coffe4.jpg
+wwwroot\img\coffe5.jpg
+wwwroot\img\coffe6.jpg
+wwwroot\img\coffe7.jpg
+wwwroot\img\coffe8.webp
+wwwroot\img\coffecat.jpeg
+wwwroot\img\cu.jpeg
+wwwroot\img\drink1.webp
+wwwroot\img\drink2.webp
+wwwroot\img\drink3.jpg
+wwwroot\img\drink4.jpg
+wwwroot\img\drink5.jpg
+wwwroot\img\drink6.jpg
+wwwroot\img\drink7.jpg
+wwwroot\img\drink8.jpg
+wwwroot\img\drink9.jpg
+wwwroot\img\drinks.png
+wwwroot\img\fruits.jpeg
+wwwroot\img\fsd2.jpg
+wwwroot\img\graps.jpeg
+wwwroot\img\jam1.jpg
+wwwroot\img\jam2.jpg
+wwwroot\img\jam3.jpg
+wwwroot\img\jam4.jpg
+wwwroot\img\jam5.jpg
+wwwroot\img\login1.jpg
+wwwroot\img\logo.jpg
+wwwroot\img\logo1.jpeg
+wwwroot\img\logoo2.jpg
+wwwroot\img\nuts.jpeg
+wwwroot\img\oil1.jpg
+wwwroot\img\oil2.jpg
+wwwroot\img\oil3.jpg
+wwwroot\img\oil4.jpg
+wwwroot\img\oil5.jpg
+wwwroot\img\oilscat.jpeg
+wwwroot\img\pasrta3.jpeg
+wwwroot\img\pasta.jpeg
+wwwroot\img\pasta1.jpg
+wwwroot\img\pasta2.jpeg
+wwwroot\img\pasta4.jpeg
+wwwroot\img\pasta5.jpeg
+wwwroot\img\pastacat.jpg
+wwwroot\img\peach.jpeg
+wwwroot\img\peach.webp
+wwwroot\img\peanuts.jpeg
+wwwroot\img\pepper.jpeg
+wwwroot\img\reg.jpg
+wwwroot\img\rice1.jpg
+wwwroot\img\riceCat.jpeg
+wwwroot\img\sauce1.jpg
+wwwroot\img\sauce2.jpg
+wwwroot\img\sauce3.jpg
+wwwroot\img\sauce4.jpg
+wwwroot\img\sauce5.jpg
+wwwroot\img\sauce6.jpg
+wwwroot\img\sauce7.jpg
+wwwroot\img\sauces.jpeg
+wwwroot\img\snack1.webp
+wwwroot\img\snack2.webp
+wwwroot\img\snack3.webp
+wwwroot\img\snack4.webp
+wwwroot\img\snack5.jpg
+wwwroot\img\strawberry.jpeg
+wwwroot\img\tea2.jpg
+wwwroot\img\tea3.jpg
+wwwroot\img\tomato.jpeg
+wwwroot\img\veget1.webp
+wwwroot\img\veget3.webp
+wwwroot\img\veget4.jpeg
+wwwroot\img\veget5.jpg
+wwwroot\img\vegetables.jpeg
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\ProductImages\apples.jpeg
+wwwroot\ProductImages\banana.jpeg
+wwwroot\ProductImages\banana.jpg
+wwwroot\ProductImages\banana2.jpeg
+wwwroot\ProductImages\blueberry1.jpeg
+wwwroot\ProductImages\cago.jpeg
+wwwroot\ProductImages\cherry.jpeg
+wwwroot\ProductImages\coffe1.webp
+wwwroot\ProductImages\images.jpeg
+wwwroot\ProductImages\logo.jpg
+wwwroot\ProductImages\oil4.jpg
+wwwroot\ProductImages\pasta.jpeg
+wwwroot\ProductImages\pasta2.jpeg
+wwwroot\ProductImages\peach.webp
+wwwroot\ProductImages\tomato.jpeg
